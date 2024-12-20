@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Ação Social</h1>
+    <div style="width: 100%; height: 2px; background-color: black;"></div>
+    <h2 align="center">O conceito de Max Weber em Pespectiva.</h2>
+    <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Max_Weber%2C_1918.jpg/800px-Max_Weber%2C_1918.jpg" border="2px" width="400px" height="400px"></center>
+    <body style="background-color:#DCDCDC">
+    <p align="center"><i><b>Max Weber</b> define ação social como qualquer ação realizada por um indivíduo ou grupo que tenha um sentido subjetivo e <br>seja orientada pela expectativa do comportamento de outros. Ou seja, é uma ação com significado e direcionada a um contexto social.<br> Weber propôs alguns tipos de ações sociais sendo elas: Ação racional com relação afins, ação racional com relação a valores, ação afetiva e ação tradicional.</i></p>
+    <p align="center"><b>Max Weber</b>, sociólogo e filósofo alemão, desenvolveu um conceito importante de ação social <br>
+        em sua obra, que é fundamental para o entendimento da sua teoria da sociologia. Para Weber, a ação social <br>
+        é um comportamento que os indivíduos realizam com base em significados que atribuem a seus atos, ou seja,<br>
+        não são apenas respostas automáticas ou instintivas, mas sim ações que são moldadas e orientadas por valores, crenças ou expectativas de outros.
+</p>
+    <div style="width: 100%; height: 2px; background-color: black;"></div>
+     <p align="center">
+        <b> Ação Racional com relações afins:</b><br>
+            É uma ação com um objetivo específico, para alcançar algo, um ganho.
+            <br>Exemplo: Um trabalhador onde ele trabalha pelo seu salário, ou um grande empresário que pensa em <br>estratégias para aumentar a venda de sua empresa. Nessas duas situações vemos que ambos buscam um ganho,<br> o trabalhador busca seu salário, enquanto o empresário busca aumentar seus negócios.</p>
+    <p align="center"><b>Ação racional com relação a valores: </b><br>
+        É uma ação guiada por convicções podendo ser religiosas, culturais, políticas.
+       <br>
+       Exemplo:  Um indivíduo que participa de um protesto mesmo sabendo que aquilo pode não levar a lugar nenhum<br>, que ele pode ser preso e tudo, mas está lutando pelo que acredita, alguém que se torna vegano não <br>por razões de saúde ou emoção, mas que acredita firmemente que é errado explorar e causar sofrimento aos animais,<br> nessas duas situações vemos que ambos os indivíduos estão agindo de acordo com valores, com o que acreditam.
+       </p>
+       <p align="center"><b>Ação afetiva:</b>
+<br>
+        Uma ação gerada por emoções ou sentimentos.
+        <br>
+        Exemplo: Eu estava chorando e alguém que eu não conhecia parou simplismente por compaixão,<br> Alguém que ajuda um amigo que está com dificuldade sem confortar consequências ou práticas.
+        </p>
+        <p align="center"><b> Ação tradicional:</b>
+<br>
+            Uma ação guiada por costumes, hábitos, tradições enraizadas. 
+            <br>
+            Exemplo: Uma família que celebra uma festa religiosa anual porque é uma tradição passada <br>de geração em geração, sem refletir sobre o sentido da prática, é algo habitual.</p>
+        </p>
+        <p align="center"> <b>O conceito de ação social de Weber nos ajuda a perceber que nossas ações do dia a dia<br>
+             estão sempre ligadas a significados pessoais e ao contexto social em que estamos. Ele nos mostra que,<br>
+              mesmo em gestos que parecem simples, há uma rica variedade de interações e significados que moldam nossas<br>
+               relações com o mundo e com as pessoas ao nosso redor. Isso nos convida a olhar mais de perto para as nuances <br>das nossas interações e a entender que cada ação carrega uma história e um significado único!
+            </b>
+        </p>
+        <div style="width: 100%; height: 2px; background-color: black;"></div>
+        <h3 align="center">Turma: 921 - A</h3>
+        <h3 align="center">Professor: Jose de Oliveira</h3>
+    <h3 align="center">Aluno: Luiz Henrique dos Santos Oliveira</h3>
+</body>
+</html>
